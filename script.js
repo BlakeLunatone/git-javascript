@@ -2,5 +2,5 @@
 const name = 'Shermar James' 
 console.log ( 'Hello, my name is' + name + '.')
 
-const positive= '2'
-console.log (
+const number = '2'
+console.log ( 2 * 2 * 5
